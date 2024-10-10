@@ -1,0 +1,14 @@
+C:\Users\Ravan\source\repos\PB503DataTypes\PB503DataTypes\bin\Debug\net6.0\PB503DataTypes.exe
+C:\Users\Ravan\source\repos\PB503DataTypes\PB503DataTypes\bin\Debug\net6.0\PB503DataTypes.deps.json
+C:\Users\Ravan\source\repos\PB503DataTypes\PB503DataTypes\bin\Debug\net6.0\PB503DataTypes.runtimeconfig.json
+C:\Users\Ravan\source\repos\PB503DataTypes\PB503DataTypes\bin\Debug\net6.0\PB503DataTypes.dll
+C:\Users\Ravan\source\repos\PB503DataTypes\PB503DataTypes\bin\Debug\net6.0\PB503DataTypes.pdb
+C:\Users\Ravan\source\repos\PB503DataTypes\PB503DataTypes\obj\Debug\net6.0\PB503DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ravan\source\repos\PB503DataTypes\PB503DataTypes\obj\Debug\net6.0\PB503DataTypes.AssemblyInfoInputs.cache
+C:\Users\Ravan\source\repos\PB503DataTypes\PB503DataTypes\obj\Debug\net6.0\PB503DataTypes.AssemblyInfo.cs
+C:\Users\Ravan\source\repos\PB503DataTypes\PB503DataTypes\obj\Debug\net6.0\PB503DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Ravan\source\repos\PB503DataTypes\PB503DataTypes\obj\Debug\net6.0\PB503DataTypes.dll
+C:\Users\Ravan\source\repos\PB503DataTypes\PB503DataTypes\obj\Debug\net6.0\refint\PB503DataTypes.dll
+C:\Users\Ravan\source\repos\PB503DataTypes\PB503DataTypes\obj\Debug\net6.0\PB503DataTypes.pdb
+C:\Users\Ravan\source\repos\PB503DataTypes\PB503DataTypes\obj\Debug\net6.0\PB503DataTypes.genruntimeconfig.cache
+C:\Users\Ravan\source\repos\PB503DataTypes\PB503DataTypes\obj\Debug\net6.0\ref\PB503DataTypes.dll
