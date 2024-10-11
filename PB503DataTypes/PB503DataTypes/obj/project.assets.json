@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ravan\\source\\repos\\PB503DataTypes\\PB503DataTypes\\PB503DataTypes.csproj",
+      "projectUniqueName": "C:\\Users\\Ravan\\Desktop\\DataTypes\\PB503DataTypes\\PB503DataTypes\\PB503DataTypes.csproj",
       "projectName": "PB503DataTypes",
-      "projectPath": "C:\\Users\\Ravan\\source\\repos\\PB503DataTypes\\PB503DataTypes\\PB503DataTypes.csproj",
+      "projectPath": "C:\\Users\\Ravan\\Desktop\\DataTypes\\PB503DataTypes\\PB503DataTypes\\PB503DataTypes.csproj",
       "packagesPath": "C:\\Users\\Ravan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ravan\\source\\repos\\PB503DataTypes\\PB503DataTypes\\obj\\",
+      "outputPath": "C:\\Users\\Ravan\\Desktop\\DataTypes\\PB503DataTypes\\PB503DataTypes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

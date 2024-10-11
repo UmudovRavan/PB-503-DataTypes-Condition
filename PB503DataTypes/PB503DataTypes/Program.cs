@@ -8,7 +8,7 @@
 
             //1 - dən 100'ə qədər 3ə və 5ə (mis: 15, 30, 45) qalıqsız bölünən ədədləri console`a yazdırırsınız
 
-            for (int i = 1; i <= 100; i++) +
+            for (int i = 1; i <= 100; i++) 
             if (i % 3 == 0 && i % 5 == 0 )
                 { Console.WriteLine(i); }
 

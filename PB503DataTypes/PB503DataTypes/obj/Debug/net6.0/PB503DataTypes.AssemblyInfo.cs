@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PB503DataTypes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3c4c9f86394a744d55c04f3412bc417f5f8186e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PB503DataTypes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PB503DataTypes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
